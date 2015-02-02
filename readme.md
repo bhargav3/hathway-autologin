@@ -10,7 +10,7 @@ Follow the below instructions, as it is, for this to work. If you are an expert 
 - Open `hathway_autologin.sh` and replace it with your hathway username and password, remove {} around the placeholders
 - Run `chmod +x hathway_autologin.sh`
 - Run `sudo crontab -e` and choose 2 for nano editor
-- Paste the line `*/5 * * * * /home/$user/$script 1>> /home/ 2>> /home/$user/hathway_autologin.log` to the bottom of the file
+- Paste the line `*/1 * * * * /home/$user/$script 1>> /home/ 2>> /home/$user/hathway_autologin.log` to the bottom of the file
 
 ##Notes
 
@@ -20,4 +20,4 @@ Follow the below instructions, as it is, for this to work. If you are an expert 
 
 ##Support
 
-- Please send in your requests by opening an issue on Bitbucket.
+- Please send in your requests by opening an issue on Github.
