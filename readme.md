@@ -15,7 +15,7 @@ Follow the below instructions, as it is, for this to work. If you are an expert 
 ##Notes
 
 - Replace $user in the last step of installation to your system username
-- crontab will add a task to the system scheduler that runs this script every 5 minutes to check if it needs to login
+- crontab will add a task to the system scheduler that runs this script every 1 minute to check if it needs to login
 - This will work only on *NIX based systems but if you want this to work on Windows based systems, best of luck.
 
 ##Support
