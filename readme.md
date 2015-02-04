@@ -21,3 +21,7 @@ Follow the below instructions, as it is, for this to work. If you are an expert 
 ##Support
 
 - Please send in your requests by opening an issue on Github.
+- 
+https://ga-beacon.appspot.com/UA-59356916-1/hathway-autologin/readme.md
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59356916-1/hathway-autologin/readme.md)](https://github.com/bhargav3/hathway-autologin)
